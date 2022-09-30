@@ -1,7 +1,6 @@
 ![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQEuIt9wd3arwA/profile-displaybackgroundimage-shrink_200_800/0/1592816633728?e=2147483647&v=beta&t=8DKXXCDtii1vkclKPzjmhRBB2TbHKKwBcStQjtLAwug)
 <h1 align="center">this is SHY.BUG</h1>
 <h3 align="center">cybersecurity enthusiast and student from Hyderabad,India</h3>
-<!img align="right" alt="Coding" width="400" src="https://images.hdqwalls.com/download/mr-robot-fsociety-logo-minimalism-qs-3840x2160.jpg">
 
 - 🔭 I’m currently working on **portswigger labs**
 
