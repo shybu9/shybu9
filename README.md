@@ -3,13 +3,15 @@
 <h3 align="center">cybersecurity enthusiast and student from Hyderabad,India🏠</h3>
 <img align="right" width=350 src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="fetching...." />
 
-- 🔭 I’m currently working on **portswigger labs🧪**
+- 🔭 I’m currently learning **DOCKER - SPLUNK - PYTHON PENTESTING TOOLS**
 
-- 🌱 I’m working learning **API PENTESTING - CLOUD SEC - PYTHON PENTESTING TOOLS**
+- 🌱 currently exploring in **API PENTESTING - CLOUD SEC - SCADA PENTESTING**
+
+- 🧪 currently working on **PORTSWIGGER LABS - THM -HTB**
 
 - 👯 I’m looking to collaborate on **CTFs🚩**
 
-- 🤝 I’m looking for help with **CAREERS IN API PENTESTIN**
+- 🤝 I’m looking for help with **CAREERS IN SCADA & API PENTESTIN**
 
 - 💬 Ask me about **all beginner doubts**
 
