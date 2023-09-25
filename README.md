@@ -1,6 +1,6 @@
 ![MasterHead](https://star-name-registry.com/modules/starconstpg/views/img/new/aquarius-cover.jpg)
 <h1 align="center">Hello this is SHY.BUG</h1>
-<h3 align="center">cybersecurity enthusiast and student from Hyderabad,India🏠</h3>
+<h3 align="center">Certified Ethical Hacker, ctf player and Cyber security student from Hyderabad, India🏠</h3>
 <img align="right" width=350 src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="fetching...." />
 
 - 🔭 I’m currently learning **DOCKER - SPLUNK - PYTHON PENTESTING TOOLS**
