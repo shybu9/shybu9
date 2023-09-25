@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **portswigger labs🧪**
 
-- 🌱 I’m currently learning **python pentesting tools⚒️**
+- 🌱 I’m working learning **API PENTESTING - CLOUD SEC - PYTHON PENTESTING TOOLS**
 
 - 👯 I’m looking to collaborate on **CTFs🚩**
 
-- 🤝 I’m looking for help with **CEH practical**
+- 🤝 I’m looking for help with **CAREERS IN API PENTESTIN**
 
 - 💬 Ask me about **all beginner doubts**
 
